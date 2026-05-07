@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 *LAST UPADTE 2026MAY03 01:54:39UTC0080*
 
 ***It supposed to has something but i'm too lazy to write***
+
+Further Details may visit <link hereby>

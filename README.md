@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*LAST UPADTE 2026MAY03 01:54:39UTC0080*
+*LAST UPADTE 2026 MAY 13 13:48:19 UTC0080*, Edit History please visit repository : [Annran233/Annran233](https://github.com/Annran233/Annran233)
 
-***It supposed to has something but i'm too lazy to write***
 
-Further Details may visit <link hereby>

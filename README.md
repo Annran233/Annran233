@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 >别回头，向前看，前路有光。
 
 ## Stacks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cloudflare,androidstudio,kotlin,github,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cloudflare,androidstudio,kotlin,github,ps,pr,vscode,windows)](https://skillicons.dev)
 
 
 ## Out of Code:
 - F**k Microsoft
 - F**k PSBC (Postal Saving Bank of China)
+- Stationeries and Pens

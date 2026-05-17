@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ## Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cloudflare,androidstudio,kotlin,github,ps,pr,vscode,windows)](https://skillicons.dev)
+**Now Learning: Kotlin, Android Studio, Pr, ArkTS and DevEco.**
 
 
 ## Out of Code:

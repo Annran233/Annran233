@@ -21,15 +21,12 @@ Here are some ideas to get you started:
 
 ## Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cloudflare,androidstudio,kotlin,github,ps,pr,vscode,windows)](https://skillicons.dev)
-<br>**Now Learning: Kotlin, Android Studio, Pr, ArkTS and DevEco.**</br>
+<br>**在学别急：Kotlin, Android Studio, Pr, ArkTS and DevEco.**</br>
 
-## Out of Code:
-- F**k Microsoft
-- Stationeries and Pens *When will Lamy 2000 price drops?*
-- [China Amateur Radio Club (CRAC)](www.crac.org.cn) Callsign BD3QCK, a Zhangjiakou ARC Member.
-- uwu
-- **HEY MOTHERF---ERS STOP STEALING MY MICROSOFT ACCOUNT!** **F--K YOU MICROSOFT WHY DON'T YOU STOP HACKERS STEALING MY ACCOUNT!**
-- Watching VTubers
+## 代码之外:
+- PTSD想到微软拿出购买记录都不给找回账号信安能力堪比一根成年玉米于是曹飞微软
+- 玩钢笔的，Lamy2000合适降价，Capless谁能送我一根
+- 中华人民共和国业余无线电台BD3QCK
+- 管人痴
 - I make fool videos.
-- 华风夏韵 洛水天依 #66CCFF
-- Arknights (CN) Level 83 **I HAVE NO WIS'ADEL**
+- 华风夏韵 洛水天依

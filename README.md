@@ -27,4 +27,5 @@ Stacks
 
 ---
 Out of Code:
-· F**k Microsoft
+- F**k Microsoft
+- F***k PSBC (Postal Saving Bank of China)

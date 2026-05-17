@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 >别回头，向前看，前路有光。
 
-##Stacks
+## Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 
 
-##Out of Code:
+## Out of Code:
 - F**k Microsoft
-- F***k PSBC (Postal Saving Bank of China)
+- F**k PSBC (Postal Saving Bank of China)

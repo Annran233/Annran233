@@ -23,12 +23,15 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cloudflare,androidstudio,kotlin,github,ps,pr,vscode,windows)](https://skillicons.dev)
 <br>**Now Learning: Kotlin, Android Studio, Pr, ArkTS and DevEco.**</br>
 
-
 ## Out of Code:
 - F**k Microsoft
 - F**k PSBC (Postal Saving Bank of China)
 - Stationeries and Pens
-- China Amateur Radio Club Callsign BD3QCK, Zhangjiakou ARC Member.
+- When will Lamy 2000 price drops?
+- [China Amateur Radio Club (CRAC)](www.crac.org.cn) Callsign BD3QCK, a Zhangjiakou ARC Member.
 - uwu
 - **HEY MOTHERF---ERS STOP STEALING MY MICROSOFT ACCOUNT**
-- **F--- KU MICROSOFT WHY DON'T YOU STOP HACKERS STEALING MY ACCOUNT**
+- **F--K YOU MICROSOFT WHY DON'T YOU STOP HACKERS STEALING MY ACCOUNT**
+- Watching VTubers
+- I make fool videos.
+- 华风夏韵 洛水天依 #66CCFF

@@ -25,13 +25,10 @@ Here are some ideas to get you started:
 
 ## Out of Code:
 - F**k Microsoft
-- F**k PSBC (Postal Saving Bank of China)
-- Stationeries and Pens
-- When will Lamy 2000 price drops?
+- Stationeries and Pens *When will Lamy 2000 price drops?*
 - [China Amateur Radio Club (CRAC)](www.crac.org.cn) Callsign BD3QCK, a Zhangjiakou ARC Member.
 - uwu
-- **HEY MOTHERF---ERS STOP STEALING MY MICROSOFT ACCOUNT**
-- **F--K YOU MICROSOFT WHY DON'T YOU STOP HACKERS STEALING MY ACCOUNT**
+- **HEY MOTHERF---ERS STOP STEALING MY MICROSOFT ACCOUNT!** **F--K YOU MICROSOFT WHY DON'T YOU STOP HACKERS STEALING MY ACCOUNT!**
 - Watching VTubers
 - I make fool videos.
 - 华风夏韵 洛水天依 #66CCFF

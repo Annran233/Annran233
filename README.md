@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 代码之外:
 - PTSD想到微软拿出购买记录都不给找回账号信安能力堪比一根成年玉米于是曹飞微软
-- 玩钢笔的，Lamy2000合适降价，Capless谁能送我一根
+- 玩钢笔的，Lamy2000何时降价，Capless谁能送我一根
 - 中华人民共和国业余无线电台BD3QCK
 - 管人痴
 - I make fool videos.

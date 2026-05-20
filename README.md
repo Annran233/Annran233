@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <br>**在学别急：Kotlin, Android Studio, Pr, ArkTS and DevEco.**</br>
 
 ## Languages
-Chinese: Native
-English: A little
-Cantonese: 只会骂人
-![DELAY NO MORE](https://i0.hdslb.com/bfs/new_dyn/6ff55506557d50221a5d203dc2db159c7271172.jpg)
+- Chinese: Native
+- English: A little
+ -Cantonese: 只会骂人
+<br>![DELAY NO MORE](https://i0.hdslb.com/bfs/new_dyn/6ff55506557d50221a5d203dc2db159c7271172.jpg)
 ## 代码之外:
 - PTSD想到微软拿出购买记录都不给找回账号信安能力堪比一根成年玉米于是曹飞微软
 - 玩钢笔的，Lamy2000何时降价，Capless谁能送我一根

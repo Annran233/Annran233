@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Languages
 - Chinese: Native
 - English: A little
- -Cantonese: 只会骂人
+- Cantonese: 只会骂人
 <br>![DELAY NO MORE](https://i0.hdslb.com/bfs/new_dyn/6ff55506557d50221a5d203dc2db159c7271172.jpg)
 ## 代码之外:
 - PTSD想到微软拿出购买记录都不给找回账号信安能力堪比一根成年玉米于是曹飞微软

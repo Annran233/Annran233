@@ -20,16 +20,13 @@ Here are some ideas to get you started:
 >别回头，向前看，前路有光。
 
 ## Stacks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cloudflare,androidstudio,kotlin,github,ps,pr,vscode,windows)](https://skillicons.dev)
-<br>**在学别急：Kotlin, Android Studio, Pr, ArkTS and DevEco.**</br>
+### Current
+<br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,github,ps,pr,vscode,windows)](https://skillicons.dev)
+### Learning
+<br>[![My Skills](https://skillicons.dev/icons?i=ts,androidstudio,kotlin)](https://skillicons.dev)
 
-## Languages
-- Chinese: Native
-- English: A little
-- Cantonese: 只会骂人
-<br>![DELAY NO MORE](https://i0.hdslb.com/bfs/new_dyn/6ff55506557d50221a5d203dc2db159c7271172.jpg)
 ## 代码之外:
-- PTSD想到微软拿出购买记录都不给找回账号信安能力堪比一根成年玉米于是曹飞微软
+- PTSD想到**微软拿出购买记录和发票都不给找回账号**信安能力堪比一根成年玉米于是曹飞微软
 - 玩钢笔的，Lamy2000何时降价，Capless谁能送我一根
 - 中华人民共和国业余无线电台BD3QCK
 - 管人痴

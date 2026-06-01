@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ## 代码之外:
 - PTSD想到**微软拿出购买记录和发票都不给找回账号**信安能力堪比一根成年玉米于是曹飞微软
+- 出于被Google封了账号与啥子Google即将[禁止Android设备侧载APK文件](https://keepandroidopen.org)于是日飞Google
 - 玩钢笔的，Lamy2000何时降价，Capless谁能送我一根
 - 中华人民共和国业余无线电台BD3QCK
 - 管人痴
